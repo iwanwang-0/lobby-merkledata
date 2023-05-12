@@ -1,1 +1,1 @@
-{}
+{"0x811B9dB74373878f7f05C66C24Ff28c0bCD61c8C":{"format":"standard-v1","tree":["0xe410c624d5d5a29e3a5ae13493633a126e80ee1bf45ef86075c4db2f705300dd"],"values":[{"value":["1683874800","0x42412C918F2FDD2aBd46Ce8C76b3C16D8aD12F33",{"type":"BigNumber","hex":"0x055005f0c614480000"}],"treeIndex":0}],"leafEncoding":["uint256","address","uint256"]}}
